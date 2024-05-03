@@ -18,3 +18,5 @@
 ## GitHub Page
 
  https://lluizcallixtto.github.io/alura_plus/ 
+
+ https://vercel.com/luiz-eduardo-americo-calixtos-projects/alura-plus 
